@@ -2,7 +2,7 @@
 
 The present Shiny application works as a Rainfall tool that aims to present, analyze and visualize rainfall records from 23 meteorological stations. Initial data have been provided by www.ecad.eu and have been preprocessed accordingly; the final format can be found in folder app-data. The input information can be manipulated accordingly in order to analyze stations of interest. There is an available link of the application at: http://83.212.112.48/rainfall-app/.
 
-The rainfall tracker application consists of 4 tabs:
+The rainfall tracker application consists of 4 main tabs:
 
 1) Country Map: A leaflet visualization of the selected country. Countries and stations can be selected in the relevant widgets at the left side. The map represents each available meteorological station and the mean annual rainfall amount of all the available rainfall records.
 
