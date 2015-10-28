@@ -10,4 +10,4 @@ The rainfall tracker application consists of 4 main tabs:
 
 3) Change Point Detection: The non paraetric Pettitt Change Point Detection test has been applied in Annual Rainfall Series in order to identify possible "changes" in the annual rainfall during the time. More information about the methodology can be found in https://cran.r-project.org/web/packages/trend/vignettes/trend.pdf (page 7). Two widgets that work for this tab are  "Select Time Period (in years) of selected station:" which actually adjust the  time period of each station and "Sig. Level Change-Point Test" that modifies the p-value of the test.
 
-4) Stations Locarion - Entire Database: In this tab there is available information about all the available meteorological stations. 
+4) Stations Location - Entire Database: In this tab there is available information about all the available meteorological stations. 
